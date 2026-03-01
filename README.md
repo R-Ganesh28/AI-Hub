@@ -1,10 +1,10 @@
 # AI-Hub – SSO Platform for Multiple AI Applications
 
-• Developed a unified web application integrating 3+ AI tools using a single login system.
-• Integrated 2+ third-party APIs and verified functional correctness across user scenarios.
-• Designed and executed 20+ test cases, identifying and fixing issues before release.
-• Ensured stable deployment by validating 100% of primary workflows.
-• Led a 3-member team, coordinated development and testing, and ensured on-time delivery.
+- Developed a unified web application integrating 3+ AI tools using a single login system.
+- Integrated 2+ third-party APIs and verified functional correctness across user scenarios.
+- Designed and executed 20+ test cases, identifying and fixing issues before release.
+- Ensured stable deployment by validating 100% of primary workflows.
+- Led a 3-member team, coordinated development and testing, and ensured on-time delivery.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
